@@ -16,7 +16,7 @@
 3. <a href="https://vuex.vuejs.org/zh-cn/" target="_blank">vuex.js</a>
 4. <a href="https://webpack.js.org/configuration/" target="_blank">webpack</a>
 5. <a href="https://github.com/axios/axios" target="_blank">axios(API请求库)</a>
-6. <a href="https://www.easy-mock.com/" target="_blank">https://www.easy-mock.com/</a>
+6. <a href="https://www.easy-mock.com/" target="_blank">EasyMock</a>
 
 ##### UI框架
 1. <a href="http://element-cn.eleme.io/#/zh-CN/component/changelog" target="_blank">element-ui</a>
@@ -24,4 +24,4 @@
 ### 项目演示
 1. 项目地址：<a href="https://jealynwang.github.io" target="_blank">https://jealynwang.github.io</a>
 2. 账号密码： 用户名（jealyn） 密码（123456）
-3. EasyMNock地址： <a href="https://www.easy-mock.com/project/5d11ea22e518e1085a79a5e2" target="_blank">https://www.easy-mock.com/project/5d11ea22e518e1085a79a5e2</a>
+3. EasyMock地址： <a href="https://www.easy-mock.com/project/5d11ea22e518e1085a79a5e2" target="_blank">https://www.easy-mock.com/project/5d11ea22e518e1085a79a5e2</a>
